@@ -25,7 +25,7 @@ const Header = () => {
                 <Link to='/'>HOME</Link>
                 <Link to='/about'>ABOUT</Link>
                 <Link to='/contact'>CONTACT</Link>
-                <Link to='/'>LOGOUT</Link>
+                {/* <Link to='/'>LOGOUT</Link> */}
             </Toolbar>
         </AppBar>
     )
